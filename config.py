@@ -24,7 +24,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/66c8c19b8a2d3a7bc5eac-00e63ace5e4622fe74.jpg")
 
 
 
